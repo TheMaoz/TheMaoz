@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](https://github.com/TheMaoz/TheMaoz/blob/main/cyber.gif)
+
 **Hi, I'm Roei Maoz**
 
 -   :computer: R&D & Blue-Teamer.
