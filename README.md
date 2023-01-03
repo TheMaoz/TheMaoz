@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 **Some of my favorite open source projects**
 
 [![Linux](https://img.shields.io/badge/Linux-blue)](https://github.com/torvalds/linux)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/django/django)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://github.com/django/django)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-000000?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 [![Brave](https://img.shields.io/badge/Brave-red)](https://github.com/brave/brave-browser)
